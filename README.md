@@ -92,8 +92,8 @@ A starter expansion (`tel#` → `01234567890`) is included by default, stored at
 ## License
 
 Snippitor is free software, licensed under the **GNU General Public
-License v3.0** (or, at your option, any later version). See the
-[LICENSE](LICENSE) file for the full text.
+License v3.0** (or, at your option, any later version). See the LICENSE,
+file for the full text.
 
 ## Disclaimer
 
