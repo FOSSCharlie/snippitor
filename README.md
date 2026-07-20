@@ -4,6 +4,8 @@ A panel applet + background daemon that expands short triggers into full
 text anywhere on your desktop - type `tel#` then a space/enter/punctuation
 and it becomes `01234567890`.
 
+> ⚠️ Vibe coded with [Claude](https://claude.ai).
+
 ## How it's put together (and why)
 
 A Cinnamon **applet** on its own can only see clicks/keys inside its own
